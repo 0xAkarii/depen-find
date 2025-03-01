@@ -36,9 +36,12 @@ Example input:
 ## Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve the tool.
 
-## Author
-Created by **@0xAkarii** (Chatgpt helped me to fix some codes)
+## License
+This project is licensed under the **MIT License**.
 
-🔗 **LinkedIn:** [Alva Radian](https://www.linkedin.com/in/alva-radian)
+## Author
+Created by **@0xAkarii** (ChatGPT helped me to fix some codes)
+
+🔗 **LinkedIn:** [Alva Radian](https://www.linkedin.com/in/alva-radian)  
 ☕ **Support Me:** [Buy Me a Coffee](https://buymeacoffee.com/0xakarii)
 
