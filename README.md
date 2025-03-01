@@ -1,12 +1,12 @@
 # DEPEN-FIND - NPM Dependency Validator
 
-DEPEN-FIND is a tool designed to validate NPM dependencies and check their availability in the NPM registry. This tool is specifically built to help developers identify potential vulnerabilities related to **Dependency Confusion Attacks** by ensuring that all dependencies listed in a `package.json` or `package-lock.json` file exist in the official NPM registry.
+DEPEN-FIND is a tool designed to validate NPM dependencies and check their availability in the NPM registry. This tool is specifically built to identify potential vulnerabilities related to **Dependency Confusion Attacks** by ensuring that all dependencies listed in a `package.json` or `package-lock.json` file is missing in the official NPM registry.
 
 ## Features
 - Fetches dependency lists from a **GitHub URL** or a **local file**.
 - Checks whether each dependency exists in the **NPM registry**.
 - Displays results in a structured table format.
-- Helps prevent **Dependency Confusion Attacks** by identifying missing or potentially unsafe dependencies.
+- Helps prevent **Dependency Confusion Attacks** by identifying missing dependencies.
 
 ## Installation
 Ensure you have Python installed on your system, then clone the project and install the required dependencies:
