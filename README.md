@@ -9,8 +9,14 @@ DEPEN-FIND is a tool designed to validate NPM dependencies and check their avail
 - Helps prevent **Dependency Confusion Attacks** by identifying missing or potentially unsafe dependencies.
 
 ## Installation
-Ensure you have Python installed on your system, then install the required dependencies:
+Ensure you have Python installed on your system, then clone the project and install the required dependencies:
 
+```sh
+git clone https://github.com/0xAkarii/depen-find
+```
+```sh
+cd depen-find
+```
 ```sh
 pip install -r requirements.txt
 ```
